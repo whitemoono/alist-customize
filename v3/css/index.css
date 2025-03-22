@@ -1,8 +1,8 @@
 :root {
   --mio-main: 255, 255, 255;
   --mio-text: 0, 0, 0;
-  --mio-primary: 100, 209, 226; /* 主题色 #64d1e2 偏蓝 */
-  --mio-primary50: 63, 194, 214;
+  --mio-primary: 237, 105, 176;
+  --mio-primary50: 190, 100, 166;
   --mio-main-opacity: 0.3;
   --hope-colors-info9: rgba(var(--mio-primary), 1);
   --hope-colors-info4: rgba(var(--mio-primary), 1);
